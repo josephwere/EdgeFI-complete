@@ -1,0 +1,2 @@
+// partnerController placeholder
+module.exports = {};

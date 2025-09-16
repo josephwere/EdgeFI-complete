@@ -1,0 +1,1 @@
+export default function AnalyticsChart(){return <div>Chart Placeholder</div>}

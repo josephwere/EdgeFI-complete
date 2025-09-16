@@ -1,0 +1,2 @@
+// userController placeholder
+module.exports = {};

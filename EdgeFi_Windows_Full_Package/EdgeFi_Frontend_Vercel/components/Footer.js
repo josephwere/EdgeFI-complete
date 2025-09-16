@@ -1,0 +1,1 @@
+export default function Footer(){return <footer style={{background:'#333',color:'#fff', padding:'10px', textAlign:'center'}}>© 2025 EdgeFi</footer>}

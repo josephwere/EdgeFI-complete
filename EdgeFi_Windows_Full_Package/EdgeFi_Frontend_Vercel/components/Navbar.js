@@ -1,0 +1,1 @@
+export default function Navbar(){return <nav style={{background:'#ffcc00', padding:'10px'}}><h2>EdgeFi</h2></nav>}
