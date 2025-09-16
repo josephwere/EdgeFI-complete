@@ -1,2 +1,0 @@
-// adminController placeholder
-module.exports = {};

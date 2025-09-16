@@ -1,2 +1,0 @@
-// investorsController placeholder
-module.exports = {};
