@@ -1,1 +1,0 @@
-export default function Partner(){return <div>Partner Dashboard Placeholder</div>}

@@ -1,1 +1,0 @@
-export default function WiFiCard({duration,price}){return <div style={{border:'1px solid #ccc', padding:'10px', borderRadius:'5px', background:'#fff'}}><h3>{duration}</h3><p>{price} KES</p><button>Buy</button></div>}
